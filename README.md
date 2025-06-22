@@ -98,6 +98,3 @@ python universal_file_compressor.py
 
 > ⭐ If you found this useful, please give it a star and share with others!
 
-```
-
----
